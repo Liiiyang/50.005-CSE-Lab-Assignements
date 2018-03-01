@@ -1,1 +1,1 @@
-# 50.005-CSE-Lab-Assignements
+# 50.005 CSE Lab Assignements
